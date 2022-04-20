@@ -14,4 +14,8 @@ public class TempClass {
         }
     }
 
+    private static void printMethod(int i, int j) {
+        System.out.println("i = " + i + "   j = " + j);
+    }
+
 }
